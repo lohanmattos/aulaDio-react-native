@@ -1,6 +1,6 @@
 # Projeto: Clone do Perfil do GitHub
 
-![image](https://user-images.githubusercontent.com/28990749/164563574-23514d45-d504-4346-8a14-e6c423faca4b.png)
+<img src="C:\Users\lohanamendola\Desktop\img-projeto.jpeg" alt="image" style="zoom:50%;" />
 
 ## Esse projeto foi desenvolvido durante o curso de "Intrudução ao React Native" na plataforma da DIO, para colocar em prática os conceitos ensinados duarante todo o curso.  
 
@@ -34,4 +34,3 @@
   - Pressable
   - Linking API
   - Add código nativo no AndroidManifest.xml para abrir link
- 
