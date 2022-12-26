@@ -1,6 +1,6 @@
 # Projeto: Clone do Perfil do GitHub
 
-![image](https://avatars.githubusercontent.com/u/61159959?v=4)
+![image](https://raw.githubusercontent.com/lohanmattos/aulaDio-react-native/main/img-projeto.jpeg)
 
 ## Esse projeto foi desenvolvido durante o curso de "Intrudução ao React Native" na plataforma da DIO, para colocar em prática os conceitos ensinados no curso.  
 
