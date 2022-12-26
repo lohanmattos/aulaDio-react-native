@@ -1,8 +1,8 @@
 # Projeto: Clone do Perfil do GitHub
 
-![image](https://user-images.githubusercontent.com/28990749/164563574-23514d45-d504-4346-8a14-e6c423faca4b.png)
+![image](https://avatars.githubusercontent.com/u/61159959?v=4)
 
-## Esse projeto foi desenvolvido durante o curso de "Intrudução ao React Native" na plataforma da DIO, para colocar em prática os conceitos ensinados duarante todo o curso.  
+## Esse projeto foi desenvolvido durante o curso de "Intrudução ao React Native" na plataforma da DIO, para colocar em prática os conceitos ensinados no curso.  
 
 # Conteúdo
 - Conhecendo o React Native
