@@ -1,1 +1,1 @@
-# Projeto Desenvolvido durando o curso de Indrodução ao React Native da DIO
+# Projeto Desenvolvido durando o curso de Introdução ao React Native da DIO
